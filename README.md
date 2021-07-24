@@ -2,9 +2,12 @@
 - 👀 I’m interested in Data Science and Mechanical Engineering.
 - 🌱 I’m currently learning tools for data science by my own, studying Mechanics of Materials and Thermodynamics in University.
 - 📫 How to reach me 
-            Gmail: paulovsanto.engmec@gmail.com  or  paulooliveira0402@gmail.com
-            Linkedin: https://www.linkedin.com/in/paulo-v%C3%ADtor-de-oliveira/
-            Instagram: https://www.instagram.com/pvsanto/
+            
+            - Gmail: paulovsanto.engmec@gmail.com  or  paulooliveira0402@gmail.com
+            
+            - Linkedin: https://www.linkedin.com/in/paulo-v%C3%ADtor-de-oliveira/
+            
+            - Instagram: https://www.instagram.com/pvsanto/
             Twitch: 
 
 <!---
