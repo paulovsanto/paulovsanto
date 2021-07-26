@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulovsanto, Paulo Vítor de Oliveira!
 - 👀 I’m interested in Data Science and Mechanical Engineering.
-- 🌱 I’m currently learning tools for data science by my own, studying Mechanics of Materials and Thermodynamics in University.
+- 🌱 I’m currently learning tools for data science by my own and studying Mechanics of Materials and Thermodynamics in University.
 - 📫 How to reach me 
             
             - Gmail: paulovsanto.engmec@gmail.com  or  paulooliveira0402@gmail.com
