@@ -5,7 +5,7 @@
             
             - Gmail: paulovsanto.engmec@gmail.com  or  paulooliveira0402@gmail.com
             
-            - Linkedin: https://www.linkedin.com/in/paulo-v%C3%ADtor-de-oliveira/
+            - Linkedin: https://www.linkedin.com/in/paulo-vitor-de-oliveira/
             
             - Instagram: https://www.instagram.com/pvsanto/
             Twitch: 
